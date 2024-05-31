@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Carlos Blanco
-- 👀 I’m interested in Web development
+- 👀 I’m interested in computer sciencie
 - 📫 How to reach me: carlojbm04@gmail.com
+- I'm Computer Sciencie's student in Havana University
+- Competitive programmer with several medals in competitions
 - nickname: xcaim04
 
 <!---
