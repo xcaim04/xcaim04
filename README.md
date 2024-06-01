@@ -3,7 +3,10 @@
 - 📫 How to reach me: carlojbm04@gmail.com
 - I'm Computer Sciencie's student in Havana University
 - Competitive programmer with several medals in competitions
-- nickname: xcaim04
+- ICPC Regional Medalist
+- nickname: xcaim04 | CarlosJavier
+
+- I am learning Python and .NET technologies
 
 <!---
 xcaim04/xcaim04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
