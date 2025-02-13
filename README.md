@@ -1,38 +1,3 @@
-## 🚀 Carlos Blanco
-
-**Computer Engineering Student** and **Web Developer**
-
-### 👨‍💻 About Me
-Hi, I'm Carlos Blanco, a dedicated computer engineering student at the University of Pinar del Río with a strong passion for learning new things and web development. My experience includes participation in various programming contests, both nationally in Cuba and in the ICPC. I thrive in collaborative project environments and always seek to improve my skills.
-
-### 🛠️ Technologies I Use
-- ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-- ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-- ![C++](https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg)
-- ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-- ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-- ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
-- ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-- **Algorithms and Data Structures**
-
-### 🏆 Achievements
-- Participation in programming contests in Cuba.
-- Competitor in the ICPC (International Collegiate Programming Contest).
-- Certifications in various courses from freeCodeCamp.
-
-### 📚 Education
-Computer Engineering Student at the University of Pinar del Río.
-
-### 🌟 Interests
-- Continuous learning and skill improvement.
-- Web development and innovative technologies.
-- Collaborative projects and teamwork.
-
-### 🌐 Let's Connect
-- [GitHub](https://github.com/carlosblanco)
-- [LinkedIn](https://www.linkedin.com/in/carlosblanco)
-- [Email](mailto:## 🚀 Carlos Blanco
-
 **Computer Engineering Student** and **Web Developer**
 
 ### 👨‍💻 About Me
