@@ -1,14 +1,66 @@
-- 👋 Hi, I’m Carlos Blanco
-- 👀 I’m interested in computer sciencie
-- 📫 How to reach me: xcaimdev04@gmail.com
-- I'm computer engineering student.
-- Competitive programmer with several medals in competitions
-- ICPC Regional Medalist
-- nickname: xcaim04 | CarlosJavier
+## 🚀 Carlos Blanco
 
-- I am learning Python and Java technologies
+**Computer Engineering Student** and **Web Developer**
 
-<!---
-xcaim04/xcaim04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 About Me
+Hi, I'm Carlos Blanco, a dedicated computer engineering student at the University of Pinar del Río with a strong passion for learning new things and web development. My experience includes participation in various programming contests, both nationally in Cuba and in the ICPC. I thrive in collaborative project environments and always seek to improve my skills.
+
+### 🛠️ Technologies I Use
+- ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+- ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+- ![C++](https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg)
+- ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+- ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+- ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
+- ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+- **Algorithms and Data Structures**
+
+### 🏆 Achievements
+- Participation in programming contests in Cuba.
+- Competitor in the ICPC (International Collegiate Programming Contest).
+- Certifications in various courses from freeCodeCamp.
+
+### 📚 Education
+Computer Engineering Student at the University of Pinar del Río.
+
+### 🌟 Interests
+- Continuous learning and skill improvement.
+- Web development and innovative technologies.
+- Collaborative projects and teamwork.
+
+### 🌐 Let's Connect
+- [GitHub](https://github.com/carlosblanco)
+- [LinkedIn](https://www.linkedin.com/in/carlosblanco)
+- [Email](mailto:## 🚀 Carlos Blanco
+
+**Computer Engineering Student** and **Web Developer**
+
+### 👨‍💻 About Me
+Hi, I'm Carlos Blanco, a dedicated computer engineering student at the University of Pinar del Río with a strong passion for learning new things and web development. My experience includes participation in various programming contests, both nationally in Cuba and in the ICPC. I thrive in collaborative project environments and always seek to improve my skills.
+
+### 🛠️ Technologies I Use
+- ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) **JavaScript**
+- ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) **Java**
+- ![C++](https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg) **C++**
+- ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg) **Python**
+- ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) **React**
+- ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) **TypeScript**
+- ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) **TailwindCSS**
+- **Algorithms and Data Structures**
+
+### 🏆 Achievements
+- Participation in programming contests in Cuba.
+- Competitor in the ICPC (International Collegiate Programming Contest).
+- Certifications in various courses from freeCodeCamp.
+
+### 📚 Education
+Computer Engineering Student at the University of Pinar del Río.
+
+### 🌟 Interests
+- Continuous learning and skill improvement.
+- Web development and innovative technologies.
+- Collaborative projects and teamwork.
+
+### 🌐 Let's Connect
+- [LinkedIn]([https://www.linkedin.com/in/carlosblanco](https://www.linkedin.com/in/carlos-blanco-7bb575287/))
+- [Email](mailto:carlosblanco@example.com)
