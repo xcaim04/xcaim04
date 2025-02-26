@@ -29,3 +29,5 @@ Computer Engineering Student at the University of Pinar del Río.
 ### 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/carlosblanco](https://www.linkedin.com/in/carlos-blanco-7bb575287/))
 - [Email](mailto:carlosblanco@example.com)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/o4mACI1uu0?theme=dark)
