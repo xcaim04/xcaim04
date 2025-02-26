@@ -1,7 +1,7 @@
-**Computer Engineering Student** and **Web Developer**
+# **Computer Engineering Student** and **Web Developer**
 
 ### 👨‍💻 About Me
-Hi, I'm Carlos Blanco, a dedicated computer engineering student at the University of Pinar del Río with a strong passion for learning new things and web development. My experience includes participation in various programming contests, both nationally in Cuba and in the ICPC. I thrive in collaborative project environments and always seek to improve my skills.
+Hi, I'm **Carlos Blanco**, a dedicated computer engineering student at the University of Pinar del Río with a strong passion for learning new things and web development. My experience includes participation in various programming contests, both nationally in Cuba and in the ICPC. I thrive in collaborative project environments and always seek to improve my skills.
 
 ### 🛠️ Technologies I Use
 - ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) **JavaScript**
@@ -19,7 +19,7 @@ Hi, I'm Carlos Blanco, a dedicated computer engineering student at the Universit
 - Certifications in various courses from freeCodeCamp.
 
 ### 📚 Education
-Computer Engineering Student at the University of Pinar del Río.
+**Computer Engineering Student** at the **University of Pinar del Río**.
 
 ### 🌟 Interests
 - Continuous learning and skill improvement.
@@ -30,4 +30,4 @@ Computer Engineering Student at the University of Pinar del Río.
 - [LinkedIn](https://www.linkedin.com/in/carlosblanco](https://www.linkedin.com/in/carlos-blanco-7bb575287/))
 - [Email](mailto:carlosblanco@example.com)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/o4mACI1uu0?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/o4mACI1uu0?theme=dark&font=Baloo_2&width=500&height=200)
