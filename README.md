@@ -15,6 +15,8 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
@@ -37,9 +39,7 @@
 ---
 
 ### 📈 **Next Learning Goals**  
-- [ ] Master **Next.js** for SSR/SSG  
-- [ ] Implement **Supabase** in Moogle! v2  
-- [ ] Add **Web Workers** to Gradient Creator  
+- [ ] Master **Flask** and **Next.js**
 
 ---
 
