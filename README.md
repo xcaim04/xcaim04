@@ -1,5 +1,5 @@
 # 💻 **Carlos Blanco**  
-#### *Computer Engineering Student* | *Full-Stack Developer (React/TypeScript/Node.js)*  
+#### *Computer Engineering Student* | *Full-Stack Developer (React/TypeScript/Express/Python)*  
 *(Specializing in Algorithmic Solutions & Web Development)*  
 
 ---
@@ -16,7 +16,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
@@ -28,18 +28,21 @@
 | **[Weather App](https://github.com/xcaim04/weather-app)** | Real-time weather dashboard | React, TypeScript, API | Clean UI/UX |  
 | **[Gradient Creator](https://github.com/xcaim04/Gradient-Creator)** | CSS gradient generator | React, TailwindCSS | Interactive design tool |  
 | **[Astro Blog](https://github.com/xcaim04/Astro-White-Tech)** | Markdown blog with Astro | Astro, Markdown | SSG Optimization |  
+| **[Prolog Editor](https://github.com/xcaim04/prolog-editor)** | Desktop app to run Prolog queries | Python, Tkinter, SWI-Prolog | **Educational tool, packaged as .exe** |
 
 ---
 
 ### 🎯 **What Makes My Code Unique**  
-- **Algorithmic thinking** applied to web development  
+- **Algorithmic thinking** applied to web development and backend scripting  
 - **Performance-oriented** solutions (from competitive programming)  
 - **Clean architecture** in full-stack projects  
+- **Educational focus**: building tools that make learning easier  
 
 ---
 
 ### 📈 **Next Learning Goals**  
-- [ ] Master **Flask** and **Next.js**
+- [ ] Master **Django** and **Next.js**  
+- [ ] Deepen **Python packaging & distribution** (PyInstaller, pip modules)
 
 ---
 
