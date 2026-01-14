@@ -1,5 +1,5 @@
 # 💻 **Carlos Blanco**  
-#### *Computer Engineering Student* | *Full-Stack Developer (React/TypeScript/Express/Python)*  
+#### *Computer Engineering* | *Full-Stack Developer (NextJS/TypeScript/Express/Python/FastAPI)*  
 *(Specializing in Algorithmic Solutions & Web Development)*  
 
 ---
@@ -26,8 +26,8 @@
 |---------|-------------|------------|------------|  
 | **[Moogle!](https://github.com/xcaim04/moogle.js)** | File search engine using TF-IDF | React, Node.js, Algorithms | **Custom search algorithm** |  
 | **[Weather App](https://github.com/xcaim04/weather-app)** | Real-time weather dashboard | React, TypeScript, API | Clean UI/UX |  
-| **[Gradient Creator](https://github.com/xcaim04/Gradient-Creator)** | CSS gradient generator | React, TailwindCSS | Interactive design tool |  
-| **[Astro Blog](https://github.com/xcaim04/Astro-White-Tech)** | Markdown blog with Astro | Astro, Markdown | SSG Optimization |  
+| **[Stellar Studio](https://stellar-studio.vercel.app/)** | Official website for Stellar Studio, where I am one of the founders | NextJS, JavaScript, TailwindCSS | Interactive design tool, SSR |  
+| **[Carlos Blanco's Algorithm Vault](https://carlos-blanco-s-algorithm-vault.vercel.app/)** | Markdown blog with NextJS | TypeScript, Supabase, Markdown | SSG Optimization |  
 | **[Prolog Editor](https://github.com/xcaim04/prolog-editor)** | Desktop app to run Prolog queries | Python, Tkinter, SWI-Prolog | **Educational tool, packaged as .exe** |
 
 ---
@@ -40,12 +40,6 @@
 
 ---
 
-### 📈 **Next Learning Goals**  
-- [ ] Master **Django** and **Next.js**  
-- [ ] Deepen **Python packaging & distribution** (PyInstaller, pip modules)
-
----
-
 ### 📫 **Let's Build Together!**  
 I'm actively looking for:  
 - Challenging web development projects  
@@ -53,7 +47,6 @@ I'm actively looking for:
 - Collaborations at the intersection of algorithms and web apps  
 
 📧 **Email**: carlojbm04@gmail.com  
-🔗 **Portfolio**: [portfolio-bay-eta-92.vercel.app](https://portfolio-bay-eta-92.vercel.app/)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xcaim04&show_icons=true&theme=radical)
 
