@@ -29,7 +29,7 @@
 | **[Stellar Studio](https://stellar-studio.vercel.app/)** | Official website for Stellar Studio, where I am one of the founders | NextJS, JavaScript, TailwindCSS | Interactive design tool, SSR |  
 | **[Carlos Blanco's Algorithm Vault](https://carlos-blanco-s-algorithm-vault.vercel.app/)** | Markdown blog with NextJS | TypeScript, Supabase, Markdown | SSG Optimization |  
 | **[Prolog Editor](https://github.com/xcaim04/prolog-editor)** | Desktop app to run Prolog queries | Python, Tkinter, SWI-Prolog | **Educational tool, packaged as .exe** |
-| **[Chess Game](https://github.com/xcaim04/prolog-editor](https://github.com/xcaim04/Chess)** | Chess Web Game with FastAPI and MiniMax algorithm with heuristic | Python, FastAPI, NextJS, TailwindCSS, JWT | **IA, MiniMax algorithm** |
+| **[Chess Game](https://github.com/xcaim04/Chess)** | Chess Web Game with FastAPI and MiniMax algorithm with heuristic | Python, FastAPI, NextJS, TailwindCSS, JWT | **IA, MiniMax algorithm** |
 
 ---
 
