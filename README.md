@@ -24,7 +24,7 @@
 
 | Project | Description | Tech Stack | Highlights |  
 |---------|-------------|------------|------------|  
-| **[Moogle-]([https://github.com/xcaim04/moogle.js](https://github.com/xcaim04/Moogle-))** | File search engine using TF-IDF | .NET, C#, Blazor | **Custom search algorithm** |  
+| **[Moogle](https://github.com/xcaim04/moogle.js](https://github.com/xcaim04/Moogle-))** | File search engine using TF-IDF | .NET, C#, Blazor | **Custom search algorithm** |  
 | **[Weather App](https://github.com/xcaim04/weather-app)** | Real-time weather dashboard | React, TypeScript, FastAPI | Clean UI/UX |  
 | **[Stellar Studio](https://stellar-studio.vercel.app/)** | Official website for Stellar Studio, where I am one of the founders | NextJS, JavaScript, TailwindCSS | Interactive design tool, SSR |  
 | **[Carlos Blanco's Algorithm Vault](https://carlos-blanco-s-algorithm-vault.vercel.app/)** | Markdown blog with NextJS | TypeScript, Supabase, Markdown | SSG Optimization |  
