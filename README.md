@@ -49,6 +49,8 @@ I'm actively looking for:
 
 📧 **Email**: carlojbm04@gmail.com  
 
+[Portfolio](https://carlosblanco-portfolio.vercel.app/)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xcaim04&show_icons=true&theme=radical)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/o4mACI1uu0?theme=dark&font=Baloo_2&width=500)
