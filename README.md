@@ -1,5 +1,5 @@
 # 💻 **Carlos Blanco**  
-#### *Computer Engineering* | *Full-Stack Developer (NextJS/TypeScript/Express/Python/FastAPI)*  
+#### *Computer Engineering* | *Backend Developer*  
 *(Specializing in Algorithmic Solutions & Web Development)*  
 
 ---
