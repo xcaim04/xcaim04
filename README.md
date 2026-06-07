@@ -44,7 +44,7 @@ I'm actively looking for:
 
 📧 **Email**: carlojbm04@gmail.com  
 
-[Portfolio](https://carlosblanco-portfolio.vercel.app/)
+[Portfolio](https://portfolio-carlosblanco.vercel.app/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xcaim04&show_icons=true&theme=radical)
 
