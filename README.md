@@ -34,7 +34,7 @@
 | [Wildfire Detector](https://github.com) | Neural network for wildfire prediction| FastAPI, Python, PyTorch, scikit-learn | **AI-driven environmental monitoring** |
 | [Neuronal Morphology Alzheimer](https://github.com) | ML analysis of neuronal changes in Alzheimer's | Python, scikit-learn, Pandas, NumPy | **Biomedical data research** |
 | [Chess Game](https://github.com/xcaim04/Chess) | Chess web game with FastAPI and Minimax heuristic | Python, FastAPI, HTMX, TailwindCSS, JWT | **AI, Minimax algorithm** |
-| [Moogle](https://github.com/xcaim04/Moogle-) | File search engine using TF‑IDF from scratch | .NET, C#, Blazor | **Custom search algorithm** |
+| [Moogle](https://github.com/xcaim04/Moogle-) | File search engine using TF‑IDF from scratch | Python, FastAPI | **Custom search algorithm** |
 | [News Scrapper FEU Social](https://github.com) | Automated web scraping pipeline for institutional news | Python, BeautifulSoup, Automation | **Data aggregation & extraction** |
 | [Prolog Editor](https://github.com/xcaim04/prolog-editor) | REST API for a Prolog query editor | Python, FastAPI, Database | **Backend API design** |
 
