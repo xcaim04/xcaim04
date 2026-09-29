@@ -30,6 +30,7 @@
 | [Moogle](https://github.com/xcaim04/Moogle-) | File search engine using TF‑IDF from scratch | Python, FastAPI | **Custom search algorithm** |
 | [News Scrapper FEU Social](https://github.com) | Automated web scraping pipeline for institutional news | Python, BeautifulSoup, Automation | **Data aggregation & extraction** |
 | [Prolog Editor](https://github.com/xcaim04/prolog-editor) | REST API for a Prolog query editor | Python, FastAPI, Database | **Backend API design** |
+| [UPR-Rank](https://github.com//UPR-Rank) | Online Judge for University of Pinar del Rio | Python, Django, Javascript, Celery, Redis, C/C++ | **Online Judge Platform** |
 
 ---
 
